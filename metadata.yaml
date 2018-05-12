@@ -1,0 +1,38 @@
+_repo: The-Rocky-Mountain-Wonderland_42030
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mills, Enos A.
+    alias: Mills, Enos Abijah
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '33404'
+    url: http://www.gutenberg.org/2009/agents/33404
+    wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
+description: ''
+gutenberg_issued: '2013-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42030'
+  lccn: '15007322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountains'
+- !lcc 'F721'
+- !lcsh 'Rocky Mountain National Park (Colo.) -- History'
+- !lcsh 'Colorado -- Description and travel'
+- !lcsh 'Natural history -- Outdoor books'
+tableOfContents: Going to the top -- Wild mountain sheep -- The forest frontier --
+  The Chinook wind -- Associating with snow-slides -- Wild folk of the mountain-summits
+  -- Some forest history -- Mountain lakes -- A mountain pony -- The grizzly bear
+  -- Bringing back the forest -- Mountain parks -- Drought in beaver world -- In the
+  winter snows -- My chipmunk callers -- A peak by the plains -- The conservation
+  of scenery -- The Rocky Mountain National Park.
+title: The Rocky Mountain Wonderland
+url: http://www.gutenberg.org/ebooks/42030
